@@ -1,0 +1,122 @@
+	.navbar {
+		background-color: #D2FFF7;
+		border-color: #D2FFF7;
+		font-family: "Helvetica";
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	
+	body {
+		background-color: #FFF;
+	}
+	
+	.portfolio-thumbnail {
+		background-color: white;
+		border-width: 4px;
+		border-style: solid;
+		border-color: white;
+	}
+	
+	.portfolio-thumbnail img {
+		height: 250px;
+	}
+	
+	.portfolio-blog {
+		text-align: justify;
+		font-family: "Helvetica";
+		width: 80%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.portfolio-feature img {
+		width: 80%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.about-container {
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+		float: center;
+	}
+	
+	.portfolio-headshot img {
+		float: center;
+		margin-left: auto;
+		margin-right: auto;
+		width: 80%;
+		max-width: 600px;
+		
+	}
+	
+	.portfolio-bio {
+		float: center;
+		margin-left: auto;
+		margin-right: auto;
+		width: 40%;
+		font-family: "Helvetica";
+		text-align: justify;
+	}
+	
+	.connect {
+		text-align: center;
+		float: right;
+	}
+	
+	.resume {
+		float: center;
+		width: 50%;
+		margin-left: 25%;
+		margin-right: 25%;
+		font-family: "Helvetica";
+	}
+	
+	.container {
+		text-align: center;
+	}
+	
+	ul {
+		list-style-type: none;
+	}
+	
+	
+	footer {
+		text-align: center;
+		bottom: 0;
+	}
+	
+	h1 {
+		text-align: center;
+		font-family: "Helvetica";
+	}
+	
+	h2 {
+		text-align: center;
+		font-family: "Helvetica";
+	}
+	
+	h3 {
+		font-family: "Helvetica";
+		font-size: medium;
+		letter-spacing: 1px;
+	}
+	
+	.brava {
+		text-align: justify;
+		font-family: "Helvetica";
+		width: 50%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.brava-list {
+		text-align: left;
+		margin-left: 25%;
+	}
